@@ -1,0 +1,12 @@
+label,sublabel,description,styles,bgcolor
+焼却ごみ類,,,img/moyasu02.svg,#FF1818
+飲・食料用ガラスびん類,,,img/bin02.svg,#0000ff
+破砕ごみ類,,,img/moyasanai.svg,#8a2be2
+粗大ごみ,,,img/moyasanai02.svg,#7C3F13
+空き缶類,,,img/moyasanai.svg,#808080
+陶器・ガラス類,,,img/moyasanai.svg,#E97400
+プラスチック製容器類,,,img/shigen.svg,#ff69b4
+雑誌・雑紙,,,img/moyasanai02.svg,#C7B001
+新聞・広告,,,img/moyasanai02.svg,#C09F4B
+ペットボトル類,,,img/shigen02.svg,#008000
+段ボール,,,img/moyasanai02.svg,#8b4513
