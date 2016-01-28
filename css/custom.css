@@ -88,7 +88,8 @@ a,a:visited{
 }
 
 a,a:hover{	
-	color: white;
+	color: #1a332d;
+	border: 1px solid #A3BF59;
 	text-decoration: none;
 }
 .accordion-heading .accordion-table{
