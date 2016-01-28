@@ -82,16 +82,22 @@ a.accordion-toggle-top:hover{
        padding-left: 10px;
 }
 
-a,a:visited{	
+a,a:link{	
 	color: blue;
 	text-decoration: none;
 }
 
-a,a:hover{	
+a,a:visited{	
 	color: #1a332d;
+	text-decoration: none;
+}
+
+a,a:hover{	
+	color: blue;
 	border: 1px solid #A3BF59;
 	text-decoration: none;
 }
+
 .accordion-heading .accordion-table{
 	display: table-cell;
 	vertical-align: middle;
