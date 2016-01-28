@@ -94,8 +94,7 @@ a,a:visited{
 
 a,a:hover{	
 	color: blue;
-	border: 1px solid #A3BF59;
-	text-decoration: none;
+	text-decoration: underline;
 }
 
 .accordion-heading .accordion-table{
