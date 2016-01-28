@@ -81,6 +81,12 @@ a.accordion-toggle-top:hover{
        position: absolute;
        padding-left: 10px;
 }
+
+a,a:visited{	
+	color: blue;
+	text-decoration: none;
+}
+
 a,a:hover{	
 	color: white;
 	text-decoration: none;
@@ -114,9 +120,6 @@ a,a:hover{
 #help{
 	margin-left: 5px;
 }
-
-	a.link { color:red; background:#ffdff9; }
-	a.visited { color:#666666; }
 
 #select_area_title{
 	text-align: center;
