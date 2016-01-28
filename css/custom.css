@@ -129,23 +129,23 @@ a:hover {
 .accordion-group-top {
 	background-color: #ffffff;
 }
-#cfk
-a{
+
+#cfk a{
 	 color: #FF0000;
 	 text-decoration: none;
 }
 
-a:link{	
+#cfk a:link{	
 	color: FF0000;
 	text-decoration: none;
 }
 
-a:visited{	
+#cfk a:visited{	
 	color: blue;
 	text-decoration: none;
 }
 
-a:hover{	
+#cfk a:hover{	
 	color: #FF0000;
 	text-decoration: underline;
 }
