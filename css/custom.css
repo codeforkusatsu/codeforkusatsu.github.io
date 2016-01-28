@@ -114,10 +114,9 @@ a,a:hover{
 #help{
 	margin-left: 5px;
 }
-#cfk{
+
 	a.link { color:red; background:#ffdff9; }
 	a.visited { color:#666666; }
-}
 
 #select_area_title{
 	text-align: center;
