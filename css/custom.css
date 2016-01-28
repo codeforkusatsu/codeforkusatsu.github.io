@@ -125,6 +125,27 @@ a,a:hover{
 }
 #help{
 	margin-left: 5px;
+
+}
+
+
+#cfk
+
+a,a:link{	
+	color: blue;
+	text-decoration: none;
+}
+
+a,a:visited{	
+	color: #1a332d;
+	text-decoration: underline;
+}
+
+a,a:hover{	
+	color: white;
+	text-decoration: none;
+}
+
 }
 
 #select_area_title{
