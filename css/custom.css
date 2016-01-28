@@ -89,12 +89,12 @@ a,a:link{
 
 a,a:visited{	
 	color: #1a332d;
-	text-decoration: none;
+	text-decoration: underline;
 }
 
 a,a:hover{	
-	color: blue;
-	text-decoration: underline;
+	color: white;
+	text-decoration: none;
 }
 
 .accordion-heading .accordion-table{
